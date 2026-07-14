@@ -33,7 +33,7 @@ A simple task management web application built with PHP and MySQL. Users can reg
    Example:
 
    ```
-   C:\xampp\htdocs\todo-app
+   C:\xampp\htdocs\todo-app-main
    ```
 
 3. Start **Apache** and **MySQL** from the XAMPP Control Panel.
@@ -41,7 +41,7 @@ A simple task management web application built with PHP and MySQL. Users can reg
 5. Open the application in your browser:
 
    ```
-   http://localhost/todo-app/public/register.php
+   http://localhost/todo-app-main/public/register.php
    ```
 
 6. Register a new account and log in to access the application.
