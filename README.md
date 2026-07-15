@@ -37,11 +37,12 @@ A simple task management web application built with PHP and MySQL. Users can reg
    ```
 
 3. Start **Apache** and **MySQL** from the XAMPP Control Panel.
-4. Import the provided SQL file into phpMyAdmin.
-5. Open the application in your browser:
+4. Open **phpMyAdmin** and create a new database named `todo_app`.
+5. Import the provided `todo_app.sql` file into the `todo_app` database.
+6. Open the application in your browser:
 
    ```
    http://localhost/todo-app-main/public/register.php
    ```
 
-6. Register a new account and log in to access the application.
+7. Register a new account and log in to access the application.
